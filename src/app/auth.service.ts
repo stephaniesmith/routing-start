@@ -1,4 +1,3 @@
-import { reject } from "q";
 
 export class AuthService {
   loggedIn = false;
